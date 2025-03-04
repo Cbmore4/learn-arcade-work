@@ -1,1 +1,5 @@
-print("Indeed")
+print("Hey everyone, How are you?")
+print("HELLO THERE MATE!")
+print("Im doing good, and you?")
+print("im well mate")
+print("Thats amazing man")
